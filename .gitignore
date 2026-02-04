@@ -1,0 +1,10 @@
+build/
+*.log
+*.tmp
+*.cache
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+*.swp

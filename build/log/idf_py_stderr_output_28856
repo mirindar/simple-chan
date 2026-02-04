@@ -1,3 +1,0 @@
-Command: ninja all
-ninja: error: remove(esp-idf\wifi_provisioning\CMakeFiles\__idf_wifi_provisioning.dir\src\wifi_config.c.obj.d): The process cannot access the file because it is being used by another process.
-
