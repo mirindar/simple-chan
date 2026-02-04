@@ -1,0 +1,2 @@
+source C:/usr/ai/idf-projects/st7789-adafruit/build/bootloader/gdbinit/symbols
+source C:/usr/ai/idf-projects/st7789-adafruit/build/bootloader/gdbinit/connect
